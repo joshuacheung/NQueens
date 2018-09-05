@@ -1,0 +1,10 @@
+Cheung Joshua November 2017
+
+Source Files: NQueens.java Queen.java
+
+Other Files: README, Makefile
+
+This program takes in an input file with coordinates of queens and determines if
+there can be n queens placed on an n x n board without attacking other queens.
+To compile use the make command and to run use the java NQueens inputfile outputfile
+command.
